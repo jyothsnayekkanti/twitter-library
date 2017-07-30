@@ -3,3 +3,4 @@
 *logs/
 *target/
 *dependency-reduced-pom.xml
+*.ips
