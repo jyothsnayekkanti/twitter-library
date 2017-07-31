@@ -23,6 +23,7 @@ consumerSecret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## Installing
 
+* Click [here](https://github.com/jyothsnayekkanti/twitter-library/releases) for the latest release.
 * Update the yaml file twitter.yaml with all the required properties.
 
 ```
